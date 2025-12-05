@@ -25,6 +25,7 @@
 <div align="center">
   <h3>👋 About Me</h3>
   <ul align="left" style="display: inline-block; text-align: left;">
+    <li>🎓 Major: <strong>Cyberspace Security</strong></li>
     <li>🔭 Researching: <strong>Binary Security</strong></li>
     <li>🏛️ Studying: <strong>Modern State Governance System & Administrative Logic</strong></li>
     <li>🌱 Learning: <strong>Kernel Pwn & Reverse Engineering</strong></li>
@@ -89,7 +90,7 @@
 
   <p>
     Welcome to <a href="https://xzz911.github.io/" style="color: #a371f7; text-decoration: none; font-weight: bold;">my blog website</a> or <a href="https://blog.csdn.net/Xzzzz911" style="color: #a371f7; text-decoration: none; font-weight: bold;">CSDN</a>, and feel free to reach out to me at 
-    <a href="mailto:your_email@gmail.com" style="color: #a371f7; text-decoration: none; font-weight: bold;">your_email@gmail.com</a>.
+    <a href="mailto:xzzzzzz911@gmail.com" style="color: #a371f7; text-decoration: none; font-weight: bold;">your_email@gmail.com</a>.
   </p>
 
   <br/>
