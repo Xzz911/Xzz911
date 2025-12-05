@@ -1,14 +1,34 @@
 <div align="center">
-  <a href="https://github.com/Xzz911">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7289DA&center=true&vCenter=true&width=435&lines=Hi,+I'm+Xzz911;IoT+Security+Researcher;CTF+Player+DOING+PWN;Welcome+to+my+Profile!" alt="Typing SVG" />
-  </a>
+  <h1>Hello, I'm <span style="color: #a371f7;">Xzz911</span></h1>
+  
+  <p>
+    👶 <b>IoT Security Researcher & CTF Player (PWN)</b>
+  </p>
+  
+  <p>
+    📝 The only way to do <b><span style="color: #a371f7;">great</span></b> work is to <b><span style="color: #a371f7;">love</span></b> what you do.
+  </p>
+
+  <p>
+    <a href="https://github.com/Xzz911" target="_blank">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="mailto:your_email@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="#" style="cursor: default;">
+       <img src="https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat Placeholder"/>
+    </a>
+  </p>
 </div>
 
 <div align="center">
-  <h3>🚀 Exploring the world of Binary & IoT</h3>
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/Xzz911/Xzz911@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <br/>
 </div>
 
-<br/>
+<hr/>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -21,12 +41,6 @@
         <li>💬 Ask me about: <strong>Linux, RTOS, C/C++, Assembly</strong></li>
         <li>👯 Looking to collaborate on: <strong>Open Source Security Tools</strong></li>
       </ul>
-      
-      <p align="left">
-        <a href="mailto:your_email@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        </p>
     </td>
     
     <td width="45%" valign="center">
@@ -63,12 +77,6 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Xzz911/Xzz911@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
+<div align="center" style="margin-top: 30px;">
   <img src="https://komarev.com/ghpvc/?username=Xzz911&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
