@@ -72,16 +72,12 @@
 </table>
 </div>
 
-<!-- 6. 贪吃蛇动画 -->
+<!-- 6. 贪吃蛇动画 (CDN 加速版) -->
 
-<!--
-注意：这张图片依赖于 Actions 自动生成。
-在你成功配置并运行 .github/workflows/snake.yml 之前，这张图可能会裂开或显示为空白。
-一旦 Actions 运行成功，这里会自动显示你的专属贪吃蛇。
--->
+<!-- 使用 jsDelivr CDN 加速，解决国内无法显示的问题 -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Xzz911/Xzz911/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/Xzz911/Xzz911%40output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- 7. 访客计数器 -->
