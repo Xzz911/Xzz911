@@ -1,38 +1,39 @@
-# 这是一个 GitHub Action 工作流文件
-# 请将其保存为: .github/workflows/snake.yml
-# 作用：每天自动生成贪吃蛇动画并更新到 output 分支
-
 name: Generate Snake
 
+# 触发机制：
+# 1. 每天 UTC 时间 0点 (北京时间早上8点) 自动运行
+# 2. 允许手动触发 (在 Actions 页面点击 Run workflow)
 on:
-  # 设置自动运行的时间：每 12 小时运行一次
   schedule:
-    - cron: "0 */12 * * *" 
-  
-  # 允许你手动点击按钮运行
+    - cron: "0 0 * * *" 
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      
-      # 生成贪吃蛇文件
-      - uses: Platane/snk/svg-only@v3
-        id: snake-gif
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: Xzz911
+          # 使用你的 GitHub 用户名
+          github_user_name: ${{ github.repository_owner }}
+          # 输出文件名为 dist/github-contribution-grid-snake.svg
+          # 同时生成深色模式版本 (用于你的深色主页)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 将生成的文件推送到 output 分支
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
+          # 将生成的文件推送到 output 分支
           target_branch: output
           build_dir: dist
         env:
+          # 使用 GitHub 自动生成的 Token 进行推送
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
