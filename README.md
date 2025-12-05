@@ -1,6 +1,5 @@
 <!--
 ✨ Xzz911 的 GitHub 个人主页配置 ✨
-使用方法：直接复制全部内容到你的 Xzz911/README.md 中
 -->
 
 <!-- 1. 顶部动态打字机特效 -->
@@ -73,66 +72,20 @@
 </table>
 </div>
 
-<!-- 6. 贪吃蛇动画占位图 -->
+<!-- 6. 贪吃蛇动画 -->
 
-<!-- 如果你还没配置 GitHub Actions，这张图会显示别人的或者静态的，配置好后会自动变成你的.com/search?q=https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<!--
+注意：这张图片依赖于 Actions 自动生成。
+在你成功配置并运行 .github/workflows/snake.yml 之前，这张图可能会裂开或显示为空白。
+一旦 Actions 运行成功，这里会自动显示你的专属贪吃蛇。
+-->
 
 <div align="center">
-<!-- 访客计数器 -->
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DXzz911%26style%3Dflat-square%26color%3Dblueviolet%26label%3DPROFILE%2BVIEWS" alt="Profile Views" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Xzz911/Xzz911/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
+<!-- 7. 访客计数器 -->
 
-### ✨ 这个模板的亮点与修改指南：
-
-1.  **打字机特效 (Typing SVG)**：
-
-      * 代码最上面的 URL 里有一段 `lines=Hi,+I'm+Xzz911;...`。
-      * 你可以修改分号 `;` 隔开的内容，把你像展示的骚话写进去（注意空格用 `+` 代替）。
-
-2.  **技能图标墙 (Tech Stack)**：
-
-      * 我使用了 `skillicons.dev`，这是目前最好看的图标库。
-      * 修改 `i=c,cpp,python...` 这一部分，增加或删除你懂的语言。例如你想加 Java，就写 `i=...,java`。
-
-3.  **统计卡片 (GitHub Stats)**：
-
-      * 我已经把 username 预设为 `Xzz911` 了。
-      * 主题使用了 `theme=tokyonight`（一种很火的暗色极客主题）。如果你喜欢其他颜色，可以改成 `radical` (红黑) 或 `dracula` (吸血鬼)。
-
-4.  **贪吃蛇动画 (Snake Animation)**：
-
-      * 模板最后那张贪吃蛇图目前是静态的或者别人的。
-      * 如果你想让它根据你**自己**的提交记录动起来，你需要做额外的一步操作（配置 GitHub Actions）。如果觉得麻烦，可以直接把最后那段 `<div>` 删除，不影响整体美观。
-
-### 如何让贪吃蛇动起来（进阶玩法，可选）：
-
-如果你希望那个贪吃蛇真的吃你的 Commit 绿点，请按以下步骤操作：
-
-1.  在你的仓库里点击 **Actions** 标签。
-2.  点击 **New workflow** -\> **set up a workflow yourself**。
-3.  粘贴以下代码并保存：
-    ```yaml
-    name: Generate Snake
-    on:
-      schedule:
-        - cron: "0 */6 * * *" # 每6小时运行一次
-      workflow_dispatch:
-    jobs:
-      build:
-        runs-on: ubuntu-latest
-        steps:
-          - uses: Platane/snk@v3
-            with:
-              github_user_name: ${{ github.repository_owner }}
-              outputs: |
-                dist/github-contribution-grid-snake.svg
-                dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          - uses: crazy-max/ghaction-github-pages@v3.1.0
-            with:
-              target_branch: output
-              build_dir: dist
-            env:
-              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    ```
+<div align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DXzz911%26style%3Dflat-square%26color%3Dblueviolet%26label%3DPROFILE%2BVIEWS" alt="Profile Views" />
+</div>
