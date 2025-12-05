@@ -1,87 +1,74 @@
-<!--
-✨ Xzz911 的 GitHub 个人主页配置 ✨
--->
-
-<!-- 1. 顶部动态打字机特效 -->
-
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/Xzz911">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26pause%3D1000%26color%3DF7F7F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi,%2BI%27m%2BXzz911%3BIoT%2BSecurity%2BResearcher%3BCTF%2BPlayer%2BDOING%2BPWN%3BWelcome%2Bto%2Bmy%2BProfile!" alt="Typing SVG" />
-</a>
+  <a href="https://github.com/Xzz911">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7289DA&center=true&vCenter=true&width=435&lines=Hi,+I'm+Xzz911;IoT+Security+Researcher;CTF+Player+DOING+PWN;Welcome+to+my+Profile!" alt="Typing SVG" />
+  </a>
 </div>
 
-<!-- 2. 个性签名/Slogan -->
-
 <div align="center">
-<h3>🚀 Exploring the world of Binary & IoT</h3>
+  <h3>🚀 Exploring the world of Binary & IoT</h3>
 </div>
 
-<!-- 3.主要内容区域：左侧文字介绍，右侧数据卡片 -->
+<br/>
 
-<table align="center" border="0">
-<tr>
-<td width="60%" valign="top">
-<h3>👋 About Me</h3>
-<ul>
-<li>🔭 I’m currently working on <strong>IoT Vulnerability Research</strong></li>
-<li>🌱 I’m currently learning <strong>Reverse Engineering & Kernel Pwn</strong></li>
-<li>👯 I’m looking to collaborate on <strong>Open Source Security Tools</strong></li>
-<li>💬 Ask me about <strong>Linux, RTOS, C/C++</strong></li>
-<!-- ⚠️请在这里修改你的邮箱 -->
-<li>📫 How to reach me: <a href="mailto:your_email@gmail.com">your_email@gmail.com</a></li>
-</ul>
-</td>
-<td width="40%" valign="center">
-<div align="center">
-<!-- GitHub 综合统计卡片 (深色极客主题) -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DXzz911%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Xzz911's Github Stats" width="100%" />
-</div>
-</td>
-</tr>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="55%" valign="center">
+      <h3>👋 About Me</h3>
+      <ul>
+        <li>🔭 Researching: <strong>IoT Vulnerabilities & Binary Security</strong></li>
+        <li>🌱 Learning: <strong>Kernel Pwn & Reverse Engineering</strong></li>
+        <li>💥 Focusing on: <strong>Heap Overflow & ROP Chains</strong></li>
+        <li>💬 Ask me about: <strong>Linux, RTOS, C/C++, Assembly</strong></li>
+        <li>👯 Looking to collaborate on: <strong>Open Source Security Tools</strong></li>
+      </ul>
+      
+      <p align="left">
+        <a href="mailto:your_email@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        </p>
+    </td>
+    
+    <td width="45%" valign="center">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Xzz911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7289da&icon_color=7289da" alt="Xzz911's Github Stats" width="100%" />
+      </div>
+    </td>
+  </tr>
 </table>
 
-<!-- 4. 技能图标墙 (Skill Icons) -->
+<br/>
 
 <div align="center">
-<h3>🛠️ Tech Stack & Tools</h3>
-
-
-
-
-
-<a href="https://skillicons.dev">
-<!-- 图标参数说明：i=后面跟着的是技术名称，你可以根据自己掌握的技能增删 -->
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python,linux,bash,git,docker,vim,assembly,md,vscode,kali%26perline%3D12%26theme%3Ddark" />
-</a>
+  <h3>🛠️ Tech Stack & Arsenal</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,assembly,bash,linux,git,docker,vim,vscode,kali,md&perline=12&theme=dark" alt="My Skills" />
+    </a>
+  </p>
 </div>
 
-<!-- 5. 底部详细数据展示 -->
+<br/>
 
 <div align="center">
-<table>
-<tr>
-<td>
-<!-- 常用语言比例图 -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DXzz911%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D6" alt="Top Langs" height="160" />
-</td>
-<td>
-<!-- 连续打卡/活跃度统计 -->
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DXzz911%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" height="160" />
-</td>
-</tr>
-</table>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzz911&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=7289da" alt="Top Langs" height="160" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xzz911&theme=tokyonight&hide_border=true&background=0d1117&ring=7289da&currStreakLabel=7289da" alt="GitHub Streak" height="160" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- 6. 贪吃蛇动画 (CDN 加速版) -->
-
-<!-- 使用 jsDelivr CDN 加速，解决国内无法显示的问题 -->
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/Xzz911/Xzz911%40output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://cdn.jsdelivr.net/gh/Xzz911/Xzz911@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<!-- 7. 访客计数器 -->
+<br/>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DXzz911%26style%3Dflat-square%26color%3Dblueviolet%26label%3DPROFILE%2BVIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Xzz911&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
