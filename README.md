@@ -24,7 +24,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://cdn.jsdelivr.net/gh/Xzz911/Xzz911@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/Xzz911/Xzz911@output/snake-custom.svg" alt="Snake animation" width="100%" />
   <br/>
 </div>
 
