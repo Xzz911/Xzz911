@@ -1,67 +1,138 @@
-<!-- 顶部横幅图片 -->
+<!--
+✨ Xzz911 的 GitHub 个人主页配置 ✨
+使用方法：直接复制全部内容到你的 Xzz911/README.md 中
+-->
 
-<!-- 你可以将下面的 URL 替换为你自己喜欢的图片的 URL。
-方法：将图片上传到这个仓库，然后点击图片获取链接，或者使用图床链接。 -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://kjsproject.com/wp-content/uploads/2022/08/Anime-Header-22.jpg" width="100%" alt="Header Image" />
-</div>
-
-<br />
-
-About Me
-
-<!-- 第一段：身份介绍 -->
-
-🚀 Cybersecurity Undergrad Currently mastering Cyberspace Security at Shandong University and proud to be a member of the VUL337 lab at Tsinghua University.
-
-<!-- 第二段：研究方向 -->
-
-🔍 IoT Security Researcher Diving into IoT security in Linux and RTOS environments, uncovering vulnerabilities along the way.
-
-<!-- 第三段：CTF经历 -->
-
-⚔️ CTF Enthusiast A PWN player with HASHTEAM and NEPNEP, actively participating in and organizing exciting CTF competitions!
-
-<!-- 漏洞发现成果部分，使用了 HTML 标签来实现居中效果 -->
+<!-- 1. 顶部动态打字机特效 -->
 
 <div align="center">
-
-💥 Vulnerability Discovery Results 💥
-
-<!-- Markdown 表格 -->
-
-CVE ID
-
-Description
-
-CVSS Score
-
-CVE-2024-45880 (Motorola)
-
-A command injection vulnerability exists in Motorola CX2L router v1.0.2 and below.
-
-8.0 (HIGH)
-
-CVE-2024-XXXX (Example)
-
-[待补充] 这里可以写你发现的其他漏洞描述...
-
-9.8 (CRITICAL)
-
-CVE-2023-XXXX (Example)
-
-[待补充] 这里的表格行可以无限添加...
-
-7.5 (HIGH)
-
+<a href="https://www.google.com/search?q=https://github.com/Xzz911">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26pause%3D1000%26color%3DF7F7F7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi,%2BI%27m%2BXzz911%3BIoT%2BSecurity%2BResearcher%3BCTF%2BPlayer%2BDOING%2BPWN%3BWelcome%2Bto%2Bmy%2BProfile!" alt="Typing SVG" />
+</a>
 </div>
 
-<br />
-
-<!-- 底部统计卡片（可选，很多人喜欢加这个，如果你不需要可以删掉） -->
+<!-- 2. 个性签名/Slogan -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DXzz911%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue" height="150" alt="stats graph"  />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DXzz911%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue" height="150" alt="languages graph" />
+<h3>🚀 Exploring the world of Binary & IoT</h3>
 </div>
+
+<!-- 3.主要内容区域：左侧文字介绍，右侧数据卡片 -->
+
+<table align="center" border="0">
+<tr>
+<td width="60%" valign="top">
+<h3>👋 About Me</h3>
+<ul>
+<li>🔭 I’m currently working on <strong>IoT Vulnerability Research</strong></li>
+<li>🌱 I’m currently learning <strong>Reverse Engineering & Kernel Pwn</strong></li>
+<li>👯 I’m looking to collaborate on <strong>Open Source Security Tools</strong></li>
+<li>💬 Ask me about <strong>Linux, RTOS, C/C++</strong></li>
+<!-- ⚠️请在这里修改你的邮箱 -->
+<li>📫 How to reach me: <a href="mailto:your_email@gmail.com">your_email@gmail.com</a></li>
+</ul>
+</td>
+<td width="40%" valign="center">
+<div align="center">
+<!-- GitHub 综合统计卡片 (深色极客主题) -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DXzz911%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Xzz911's Github Stats" width="100%" />
+</div>
+</td>
+</tr>
+</table>
+
+<!-- 4. 技能图标墙 (Skill Icons) -->
+
+<div align="center">
+<h3>🛠️ Tech Stack & Tools</h3>
+
+
+
+
+
+<a href="https://skillicons.dev">
+<!-- 图标参数说明：i=后面跟着的是技术名称，你可以根据自己掌握的技能增删 -->
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python,linux,bash,git,docker,vim,assembly,md,vscode,kali%26perline%3D12%26theme%3Ddark" />
+</a>
+</div>
+
+<!-- 5. 底部详细数据展示 -->
+
+<div align="center">
+<table>
+<tr>
+<td>
+<!-- 常用语言比例图 -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DXzz911%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D6" alt="Top Langs" height="160" />
+</td>
+<td>
+<!-- 连续打卡/活跃度统计 -->
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DXzz911%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" height="160" />
+</td>
+</tr>
+</table>
+</div>
+
+<!-- 6. 贪吃蛇动画占位图 -->
+
+<!-- 如果你还没配置 GitHub Actions，这张图会显示别人的或者静态的，配置好后会自动变成你的.com/search?q=https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+<!-- 访客计数器 -->
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DXzz911%26style%3Dflat-square%26color%3Dblueviolet%26label%3DPROFILE%2BVIEWS" alt="Profile Views" />
+</div>
+
+
+### ✨ 这个模板的亮点与修改指南：
+
+1.  **打字机特效 (Typing SVG)**：
+
+      * 代码最上面的 URL 里有一段 `lines=Hi,+I'm+Xzz911;...`。
+      * 你可以修改分号 `;` 隔开的内容，把你像展示的骚话写进去（注意空格用 `+` 代替）。
+
+2.  **技能图标墙 (Tech Stack)**：
+
+      * 我使用了 `skillicons.dev`，这是目前最好看的图标库。
+      * 修改 `i=c,cpp,python...` 这一部分，增加或删除你懂的语言。例如你想加 Java，就写 `i=...,java`。
+
+3.  **统计卡片 (GitHub Stats)**：
+
+      * 我已经把 username 预设为 `Xzz911` 了。
+      * 主题使用了 `theme=tokyonight`（一种很火的暗色极客主题）。如果你喜欢其他颜色，可以改成 `radical` (红黑) 或 `dracula` (吸血鬼)。
+
+4.  **贪吃蛇动画 (Snake Animation)**：
+
+      * 模板最后那张贪吃蛇图目前是静态的或者别人的。
+      * 如果你想让它根据你**自己**的提交记录动起来，你需要做额外的一步操作（配置 GitHub Actions）。如果觉得麻烦，可以直接把最后那段 `<div>` 删除，不影响整体美观。
+
+### 如何让贪吃蛇动起来（进阶玩法，可选）：
+
+如果你希望那个贪吃蛇真的吃你的 Commit 绿点，请按以下步骤操作：
+
+1.  在你的仓库里点击 **Actions** 标签。
+2.  点击 **New workflow** -\> **set up a workflow yourself**。
+3.  粘贴以下代码并保存：
+    ```yaml
+    name: Generate Snake
+    on:
+      schedule:
+        - cron: "0 */6 * * *" # 每6小时运行一次
+      workflow_dispatch:
+    jobs:
+      build:
+        runs-on: ubuntu-latest
+        steps:
+          - uses: Platane/snk@v3
+            with:
+              github_user_name: ${{ github.repository_owner }}
+              outputs: |
+                dist/github-contribution-grid-snake.svg
+                dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          - uses: crazy-max/ghaction-github-pages@v3.1.0
+            with:
+              target_branch: output
+              build_dir: dist
+            env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    ```
