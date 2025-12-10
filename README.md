@@ -90,7 +90,7 @@
 
   <p>
     Welcome to <a href="https://xzz911.github.io/" style="color: #a371f7; text-decoration: none; font-weight: bold;">my blog website</a> or <a href="https://blog.csdn.net/Xzzzz911" style="color: #a371f7; text-decoration: none; font-weight: bold;">CSDN</a>, and feel free to reach out to me at 
-    <a href="mailto:xzzzzzz911@gmail.com" style="color: #a371f7; text-decoration: none; font-weight: bold;">your_email@gmail.com</a>.
+    <a href="mailto:xzzzzzz911@gmail.com" style="color: #a371f7; text-decoration: none; font-weight: bold;">xzzzzzz911@gmail.com</a>.
   </p>
 
   <br/>
